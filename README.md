@@ -1,13 +1,13 @@
-# CustomerAnalysis
+# Customer Segmentation
 
 ## Introduction
 Customer segmentation allows companies to separate their set of customers into different groups or clusters that share traits. Once the clusters are created, the company can tailor their marketing campaigns to the specific groups, improving the campaign’s impact or conversion rate.
 
 ## Dataset 
-Name: Company's Ideal Customers | Marketing Strategy 
-Source: Kaggle
-URL: https://www.kaggle.com/datasets/whenamancodes/customer-personality-analysis
-Published by: Aman Chauhan
+Name: Company's Ideal Customers | Marketing Strategy                                                                          
+Source: Kaggle                                                                  
+URL: https://www.kaggle.com/datasets/whenamancodes/customer-personality-analysis                                                      
+Published by: Aman Chauhan                                                                                                           
 
 ## Attributes in dataset:
 ### People
