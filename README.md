@@ -8,8 +8,10 @@ Completion Date: Dec 5, 2022
 ## What do you know about customer segmentation?
 Customer segmentation allows companies to separate their set of customers into different groups or clusters that share traits. Once the clusters are created, the company can tailor their marketing campaigns to the specific groups, improving the campaign’s impact or conversion rate.
 
-## How to approach the problem
-
+## What are the steps in this analysis?
+1. Clean and understand your data
+2. Choose the right model for data clustering
+3. Analyze the clusters to find the unifying traits
 
 ## Dataset 
 Name: Company's Ideal Customers | Marketing Strategy                                                                          
@@ -17,7 +19,7 @@ Source: Kaggle
 URL: https://www.kaggle.com/datasets/whenamancodes/customer-personality-analysis                                                      
 Published by: Aman Chauhan                                                                                                           
 
-## Methodology
+## Want to know more?
 ###                                                                                                                                      
 
 
