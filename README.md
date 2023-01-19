@@ -2,7 +2,6 @@
 The following files were submitted for a project at The Bridge Data Science course in Madrid.                                                      
 Submission by Inés Avello                                                                                                                         
 Completion Date: Dec 5, 2022
-
 ![image](https://user-images.githubusercontent.com/112063546/213435987-d978968d-b0b8-4720-90a8-14abe40b0c56.png)
 
 ## What do you know about customer segmentation?
